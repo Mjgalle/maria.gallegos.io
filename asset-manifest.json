@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maria.gallegos.io/static/css/main.073c9b0a.css",
+    "main.js": "/maria.gallegos.io/static/js/main.deac5865.js",
+    "static/js/787.28cb0dcd.chunk.js": "/maria.gallegos.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/maria.gallegos.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/maria.gallegos.io/index.html",
+    "main.073c9b0a.css.map": "/maria.gallegos.io/static/css/main.073c9b0a.css.map",
+    "main.deac5865.js.map": "/maria.gallegos.io/static/js/main.deac5865.js.map",
+    "787.28cb0dcd.chunk.js.map": "/maria.gallegos.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.deac5865.js"
+  ]
+}
